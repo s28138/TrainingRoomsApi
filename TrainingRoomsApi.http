@@ -1,0 +1,6 @@
+@TrainingRoomsApi_HostAddress = http://localhost:5043
+
+GET {{TrainingRoomsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
